@@ -5,7 +5,7 @@ import contacts from "../contacts.js";
 function App() {
   return (
     <div>
-      <h1 className="heading">My Contacts</h1>
+      <h1 className="heading">My Contacts List</h1>
 
       <Card
         name={contacts[0].name}
